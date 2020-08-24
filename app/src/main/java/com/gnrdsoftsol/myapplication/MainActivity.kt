@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("HAIIII","Fourth commit")
         Log.d("HAIIII","Fifth commit")
         Log.d("HAIIII","SIXTh commit")
+        Log.d("HAIIII","Seventh commit")
+        Log.d("HAIIII","Eight commit")
     }
 }
